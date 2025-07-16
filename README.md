@@ -18,7 +18,7 @@
 ### 📊 Linguagens Mais Usadas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoleonardorosasiqueira&layout=compact&langs_count=7&theme=radical&hide=html"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoleonardorosasiqueira&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 ---
@@ -27,4 +27,24 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50p
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" title="Python"/>
+  <img src="https://img.icons8.com/fluency/48/powershell.png" width="50px" title="PowerShell"/>
+</p>
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hugsiqueira/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hugoleonardorosasiqueira@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- GIF decorativo no canto inferior direito -->
+<img src="https://github.com/hugoleonardorosasiqueira/hugoleonardorosasiqueira/blob/main/ea396d1b-15a6-469d-91aa-b444f1efd827.png?raw=true" align="right" width="150"/>
