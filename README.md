@@ -1,4 +1,3 @@
-# HugoLeonardoRosaSiqueira
 
 # Olá! Sou Hugo Leonardo 👋
 
