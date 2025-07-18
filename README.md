@@ -47,4 +47,5 @@
 ---
 
 <!-- GIF decorativo no canto inferior direito -->
-<img src="https://github.com/hugoleonardorosasiqueira/hugoleonardorosasiqueira/blob/main/ea396d1b-15a6-469d-91aa-b444f1efd827.png?raw=true" align="right" width="150"/>
+<img src="https://github.com/hugoleonardorosasiqueira/hugoleonardorosasiqueira/blob/main/linux-sem-fundo.gif?raw=true" align="right" width="150"/>
+
